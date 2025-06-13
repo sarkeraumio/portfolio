@@ -1,40 +1,16 @@
-# Electrical Engineer
+# Electronic Engineer
 
-#### Highlighted Skills: Power Electronics, Python, Mixed-Signal PCBA Design, Altium Designer, Fusion360, ROS
+#### Highlighted Skills: Power Electronics, Python, Altium Designer, Fusion360, biomedical signal processing
 
 ## Education
-- B.S., Electrical Engineering | The University of Pennsylvania (_May 2027_)
-- High School | Staples High School (_May 2023_)              		
-
-## Work Experience
-**Undergraduate Researcher, KumarRobotics (_Jan 2025 - Present_)**
-- Joined the Distributed and Collaborative Systems and Technology (DCIST) team to develop hardware and software for swarm technology alongside the Army Research Laboratory
-- Leading development of a “brain in a box” that uses LiDAR, GPS, stereo cameras, IMU readings, and an on-board Linux machine for adaptable sensor fusion, data collection, and autonomy algorithm deployment for mid-size UGVs (~800lbs)
-- Developing skills in ROS, MATLAB, and Python (Numpy, Pandas) to design, simulate, and analyze multi-agent robotic systems
+- B.Eng., Electronic and Electrical Engineering | City University of Hong Kong (_June 2026_)           		
 
 
-**Head of Electrical Controls, Penn Hyperloop (_Aug 2023 - Jan 2025_)**
-- Worked with team to build half-meter diameter tunnel boring machine (TBM) and won the 2024 Not-A-Boring-Competition mini event
-- Developed state-based control system for the tunnel boring machine, using PLCs and VFDs to coordinate multi-parameter systems in a dynamic, GPS-denied environment
-- Modeled TBM cutterhead using Fusion360 CAD software, used static stress FEA for bolt sizing
-- Presented team at the 2024 North American Tunneling (NAT) conference in Nashville, TN
+**Electronic Engineer Intern, AI Mnemonic (_Summer 2024_)**
+- Developed software for ESP32-S3(C++) microcontroller for BCG Heartbeat Recorder 
+- Analyzed heartbeat data from PPG and Piezo sensors using MATLAB after collecting data from various pulse points and transferring it through FTP server.   
+- Designed circuits in KiCad; Soldered 10+ charge amplifier circuits on PCB for testing.
 
-**Electrical Hardware Engineer, Penn Electric Racing (_Aug 2023 - June 2024_)**
-- Designed and routed high-voltage CCCV battery charger using Altium Designer to quintuple max current and improve charging characteristics
-- Designed and routed a Brake Sensor Plausibility Device (BSPD), which aggregates motor and brake sensor data to ensure nominal and safe car behavior
-- Gained hands-on experience using oscilloscopes, multimeters, and lab-bench power supplies
-
-**Computer Engineer, BitMindz (_Summer 2024_)**
-- Assembled high-power workstations for forensic processing applications, coordinated sales to CIA, FBI, United States Secret Service, and NSA
-- Modeled custom brackets using Solidworks CAD, which increased rate of airflow boosting system performance by 26%
-- Created automated 3D printer farm using custom Raspberry Pi software, increasing rate of custom component manufacturing by ~3x
-
-
-**Intern, First Reserve Corp. (_Summer 2022_)**
-- Youngest intern ever hired
-- Conducted research on the autonomous pipeline pigging robotics industry, evaluated for potential roll-up
-- Modeled an LBO to track IRR and MoIC on various performance cases
-- Consolidated information onto a memo and presented to senior management
 
 
 ## Projects
