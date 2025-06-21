@@ -1,6 +1,6 @@
 # Electronic Engineer
 
-#### Highlighted Skills: Power Electronics, Python, Altium Designer, Fusion360, biomedical signal processing
+#### Highlighted Skills: Power Electronics, Fusion360, Python, Matlab, C++, LTSpice, Soldering, 3D printing, Laser Cutting and Engraving
 
 ## Education
 - B.Eng., Electronic and Electrical Engineering | City University of Hong Kong (_June 2026_)           		
