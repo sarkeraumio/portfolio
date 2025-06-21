@@ -3,7 +3,7 @@
 #### Highlighted Skills: Power Electronics, Fusion360, KiCad, Python, Matlab, C++, LTSpice, Soldering, 3D printing, Laser Cutting and Engraving
 
 ## Education
-- B.Eng., Electronic and Electrical Engineering | City University of Hong Kong (_June 2026_)           		
+- B.Eng. Electronic and Electrical Engineering | City University of Hong Kong (_June 2026_)           		
 
 ## Work Experience
 **Electronic Engineer Research Intern, IMTEK, University of Freiburg (_Summer 2025_)**
