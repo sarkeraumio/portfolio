@@ -8,7 +8,6 @@
 ## Work Experience
 **Electronic Engineer Research Intern, IMTEK, University of Freiburg (_Summer 2025_)**
 - Verified the system’s Trasnfer Function and stabilized operations, including enhancing the analog filter chain for Auditory Brainstem Response System
-- Investigated alternative ABR extraction algorithms, transitioning from basic averaging to advanced techniques such as wavelet transforms and feature extraction
 - Designed housing for the whole system in Fusion360 and printed in Bamboolab 3D printers
 
 **Electronic Engineer Intern, AI Mnemonic (_Summer 2024_)**
